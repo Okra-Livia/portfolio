@@ -75,7 +75,7 @@ var art = {
 
 var okra = {
 	name: "Okra Livia",
-	description: "Hi! My name is Okra Livia, I'm currently studying my master in Interactive Media Technology wiht the track Physical Interaction at KTH in my hometown, Stockholm. My passions include UX/ UI, design in general, art and culture. Alongside my studies I have been illustrating for KTH's union paper, Osqledaren, with over 10 000 readers and I'm also a graphic designer at IT consultant company, Netlight."
+	description: "Hi, I'm Okra Livia! I’m currently studying my master in Interactive Media Technology, specialising in the Physical Interaction track, at KTH in my hometown, Stockholm. My passions include UX/ UI, design in general, art and culture. Alongside my studies I have been illustrating for KTH's union paper, Osqledaren, with over 10 000 readers and I'm also a graphic designer at IT consultant company, Netlight."
 };
 
 var skills = {
