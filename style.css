@@ -200,12 +200,12 @@ video, #cozy, .nlImg {
     0 0 30px 20px #d8d8d8
 }
 
-#art img {
+.projImg, .nlImg, #artImg {
   cursor: pointer;
 }
 
-.projImg {
-  cursor: pointer;
+#cozy img:hover {
+  opacity: 1 !mportant;
 }
 
 .meImg {
