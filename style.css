@@ -200,7 +200,11 @@ video, #cozy, .nlImg {
     0 0 30px 20px #d8d8d8
 }
 
-img {
+#art img {
+  cursor: pointer;
+}
+
+.projImg {
   cursor: pointer;
 }
 
