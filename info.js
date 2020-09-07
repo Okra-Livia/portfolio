@@ -80,7 +80,7 @@ var okra = {
 
 var skills = {
 	name: "Skills:",
-	description: "HTML5, CSS, JavaScript, Figma, Adobe Photoshop, Adobe Illustrator, Adobe After Effects, Adobe Audition and some knowledge about React, Python, SQL, Unity and Blender."
+	description: "HTML5, CSS, JavaScript, Figma, Adobe XD, Adobe Photoshop, Adobe Illustrator, Adobe After Effects, Adobe Audition and some knowledge about React, Python, SQL, Unity and Blender."
 };
 
 var lang = {
